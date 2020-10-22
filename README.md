@@ -1,4 +1,4 @@
-# image augmentation in deep learning
+# Image Augmentation in deep learning
 (ImageDataGenerator) is Keras deep learning library provides the ability to use data augmentation automatically when training a model.
 
 A range of techniques are supported, as well as pixel scaling methods. We will focus on five main types of data augmentation techniques for image data; specifically:
