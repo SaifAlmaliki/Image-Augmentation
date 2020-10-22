@@ -12,3 +12,7 @@ A range of techniques are supported, as well as pixel scaling methods. We will f
 - Image brightness via the brightness_range argument.
 
 - Image zoom via the zoom_range argument.
+
+
+
+source: https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/
